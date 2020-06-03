@@ -1,6 +1,6 @@
 # File System Scanner
 
-This file system scanner is a nifty command line tool to get folder/directory sizes in windows by [DumbleBots](dumblebots.com). It can be alse be used to-
+This file system scanner is a nifty command line tool to get folder/directory sizes in windows by [DumbleBots](www.dumblebots.com). It can be alse be used to-
 - find files and folder/ general navigation of your storage device.
 - Find files and directories by their name 
 - Navigate or find files and directories seperately
